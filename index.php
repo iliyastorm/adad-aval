@@ -10,3 +10,5 @@ if (($adad == 2) or ($adad == 3) or ($adad == 5) or ($adad == 7) or ($adad == 11
 else {
     echo 'عدد وارد شده عدد اول نیست!';
 }
+?>
+ 
